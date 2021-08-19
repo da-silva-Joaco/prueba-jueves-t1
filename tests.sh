@@ -50,7 +50,6 @@ else
   echo -e "[ ${RED}Fail${NC} ]: Se esperaba '$expected' pero se obtuvo '$output' ${RED}❌${NC}"
 fi
 ##### TESTS EJERCICIO 2 #####
-echo
 echo "Ejecutando tests del ejercicio 2..."
 # test 2.1
 expected="0"
@@ -83,7 +82,6 @@ else
   echo -e "[ ${RED}Fail${NC} ]: Se esperaba '$expected' pero se obtuvo '$output' ${RED}❌${NC}"
 fi
 ##### TESTS EJERCICIO 3 #####
-echo
 echo "Ejecutando tests del ejercicio 3..."
 # test 3.1
 expected="8"
@@ -116,7 +114,6 @@ else
   echo -e "[ ${RED}Fail${NC} ]: Se esperaba '$expected' pero se obtuvo '$output' ${RED}❌${NC}"
 fi
 ##### TESTS EJERCICIO 4 #####
-echo
 echo "Ejecutando tests del ejercicio 4..."
 # test 4.1
 expected="3 "
