@@ -9,6 +9,7 @@
  * 3 6 9 12 15 18
  */
 
-int main() {
+int main(int argc, char const *argv[]) {
 
+  return 0;
 }
